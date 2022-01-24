@@ -1,0 +1,22 @@
+{
+  "name": "plane-seats-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardwardingley/plane-seats-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardwardingley/plane-seats-2/issues"
+  },
+  "homepage": "https://github.com/richardwardingley/plane-seats-2#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
